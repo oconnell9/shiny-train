@@ -14,5 +14,5 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function() {
-  print("Wow this is the best package ever! This is me testing it -ECO")
+  print("Wow this is the best package ever!")
 }
